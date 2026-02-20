@@ -6,18 +6,9 @@ labels: ["Regra-de-Negócio"]
 ---
 
 # 📘 Regra de Negócio — RNXX  
-(Altere RNXX para o número apropriado)
 
 ## 📝 Descrição
 Descreva a regra de forma objetiva.
-
-Exemplo:  
-_Usuários inativos por mais de 90 dias devem ser bloqueados automaticamente._
-
----
-
-## 🎯 Justificativa
-Por que essa regra existe?
 
 ---
 
@@ -29,4 +20,4 @@ Por que essa regra existe?
 ---
 
 ## 📌 Observações
-
+Nada a declarar
